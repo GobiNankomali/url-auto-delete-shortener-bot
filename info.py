@@ -79,7 +79,7 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://youtu.be/_B1lH1gPHgE"
+DOWNLOAD_TEXT_URL = ""
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "FOLLOW"
